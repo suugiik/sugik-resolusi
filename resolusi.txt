@@ -6,3 +6,4 @@ SUGIK RESOLUSI
 - c
 - e
 - f
+- g
