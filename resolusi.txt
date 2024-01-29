@@ -1,9 +1,9 @@
 SUGIK RESOLUSI
 - a
   * 1
-  * 3
+  * 2
 - b
 - c
 - e
 - f
-- ff
+- g
